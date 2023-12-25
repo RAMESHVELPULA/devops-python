@@ -7,5 +7,5 @@ To get started create a virtual env.
 
 * 'requirments' : packages
 * 'make': cookbook runs commands
-* 'hello.py': code
-* 'hello_test.py' : test code
+* 'app.py': code
+* 'hello_app.py' : test code
